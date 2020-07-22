@@ -3,14 +3,14 @@ import platform
 # 连接mysql字符串
 db = None
 if platform.node() == "DESKTOP-MKICEMAN":
-    db = pymysql.connect("localhost", "root", "liang", "football", port=3308, cursorclass=pymysql.cursors.DictCursor)
+    db = pymysql.connect("localhost", "root", "cxs123123.", "football", port=3306, cursorclass=pymysql.cursors.DictCursor)
 elif platform.node() == "DESKTOP-Liang":
-    db = pymysql.connect("localhost", "root", "liang1111", "rangqiu", port=3306, cursorclass=pymysql.cursors.DictCursor)
+    db = pymysql.connect("localhost", "root", "cxs123123.", "football", port=3306, cursorclass=pymysql.cursors.DictCursor)
 elif platform.node() == 'DESKTOP-administator':
-    db = pymysql.connect("localhost", "root", "jiang", "football", port=3306,
+    db = pymysql.connect("localhost", "root", "cxs123123.", "football", port=3306,
                          cursorclass=pymysql.cursors.DictCursor)
 else:
-    db = pymysql.connect("127.0.0.1", "root", "mysql", "football", port=3306, cursorclass=pymysql.cursors.DictCursor)
+    db = pymysql.connect("127.0.0.1", "root", "cxs123123.", "football", port=3306, cursorclass=pymysql.cursors.DictCursor)
 
 
 class DBUtils:

@@ -14,7 +14,7 @@ from football.crawler.craImpl import cra_data, cra_bifen, cra_oupei, gameImpl
 """
 打包运行文件，打包的之后 运行这个------
 """
-app = Flask(__name__)
+app = Flask(__name__,template_folder='./templates')
 app.register_blueprint(cra_route.simple_page)
 
 
