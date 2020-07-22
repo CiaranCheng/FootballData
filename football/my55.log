@@ -115,3 +115,8 @@
 2020-07-22 16:53:02,127 - INFO - trend > calc_bodan 耗时：0.0
 2020-07-22 16:53:02,130 - INFO - trend > start_time 耗时：0.0
 2020-07-22 16:53:02,134 - INFO - trend > query_oupei_echart 耗时：0.0
+2020-07-22 17:01:30,367 - INFO - trend > query_pay_echart 耗时：0.0
+2020-07-22 17:01:30,380 - INFO - trend > query_record 耗时：0.01
+2020-07-22 17:01:30,386 - INFO - trend > calc_bodan 耗时：0.0
+2020-07-22 17:01:30,389 - INFO - trend > start_time 耗时：0.0
+2020-07-22 17:01:30,407 - INFO - trend > query_oupei_echart 耗时：0.01
