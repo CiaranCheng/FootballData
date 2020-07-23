@@ -10,10 +10,14 @@ pip或者pip3 install football-version.tar.gz -U
 
 #### 启动项目
 在football_web目录里面执行如下命令
+在football目录里面执行如下命令
 python run.py
 
 #### 启动定时器
 python run_timer.py
+
+#### MySql参数
+修改football/crawler/utils/DBUtils.py中的数据库链接字符串
 
 #### 启用代理功能
 football/crawler/craImpl/cra_data.py

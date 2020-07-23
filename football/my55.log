@@ -120,3 +120,13 @@
 2020-07-22 17:01:30,386 - INFO - trend > calc_bodan 耗时：0.0
 2020-07-22 17:01:30,389 - INFO - trend > start_time 耗时：0.0
 2020-07-22 17:01:30,407 - INFO - trend > query_oupei_echart 耗时：0.01
+2020-07-22 17:21:03,798 - INFO - trend > query_pay_echart 耗时：0.0
+2020-07-22 17:21:03,812 - INFO - trend > query_record 耗时：0.01
+2020-07-22 17:21:03,816 - INFO - trend > calc_bodan 耗时：0.0
+2020-07-22 17:21:03,819 - INFO - trend > start_time 耗时：0.0
+2020-07-22 17:21:03,822 - INFO - trend > query_oupei_echart 耗时：0.0
+2020-07-22 17:32:36,793 - INFO - trend > query_pay_echart 耗时：0.0
+2020-07-22 17:32:36,807 - INFO - trend > query_record 耗时：0.01
+2020-07-22 17:32:36,810 - INFO - trend > calc_bodan 耗时：0.0
+2020-07-22 17:32:36,813 - INFO - trend > start_time 耗时：0.0
+2020-07-22 17:32:36,817 - INFO - trend > query_oupei_echart 耗时：0.0
