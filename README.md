@@ -22,3 +22,6 @@ football/crawler/craImpl/cra_data.py
 #### 修改各个网页抓取间隔时间，单位是 秒
 football/crawler/constants/timeout_constant.py
 TIMER_INTERVAL
+
+
+20200726
